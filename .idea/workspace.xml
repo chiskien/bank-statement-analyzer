@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f42cd1a7-d521-4a54-8ede-d2caf37bd412" name="Changes" comment="class BankTransactionalAnalyzer.java">
+    <list default="true" id="f42cd1a7-d521-4a54-8ede-d2caf37bd412" name="Changes" comment="Create BankStatement model class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chiskien/BankTransactionalAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chiskien/BankTransactionalAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chiskien/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chiskien/BankStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chiskien/BankStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677071522223</updated>
       <workItem from="1677071523717" duration="268000" />
-      <workItem from="1677071810249" duration="441000" />
+      <workItem from="1677071810249" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="BankStatement Analyzer initiate">
       <created>1677071685004</created>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677071974960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create BankStatement model class">
+      <created>1677072385586</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677072385586</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
     <MESSAGE value="BankStatement Analyzer initiate" />
     <MESSAGE value="data.csv" />
     <MESSAGE value="class BankTransactionalAnalyzer.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="class BankTransactionalAnalyzer.java" />
+    <MESSAGE value="Create BankStatement model class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create BankStatement model class" />
   </component>
 </project>
